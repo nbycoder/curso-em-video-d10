@@ -1,0 +1,6 @@
+- as variaveis em CSS são usadas para guardar valores para serem usados mais para a frente
+
+:root é uma pseudo-classe que todos os documentos têm
+tudo o que estiver em baixo de :root vai servir para o documento inteiro, incluindo variaveis
+
+todas as variaveis começam com --
